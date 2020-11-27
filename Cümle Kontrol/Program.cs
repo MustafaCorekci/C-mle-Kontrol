@@ -84,7 +84,6 @@ namespace CumleProgramı
                         
                         Console.ReadLine();
                     }
-
                 }
             }
             catch
@@ -122,7 +121,6 @@ namespace CumleProgramı
                 }
                 return SesliHarfSayisi;
             }
-
         }
 
         //SESSİZ HARF BULMA CLASSI VE METODU
@@ -146,8 +144,5 @@ namespace CumleProgramı
                 return SessizHarfSayisi;
             }
         }
-
-
-
     }
 }
